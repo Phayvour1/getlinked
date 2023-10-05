@@ -1126,8 +1126,61 @@ h3 {
 .container9{
     border-bottom: 0.1px solid #ea9efd27;
     border-bottom: 0.1px solid #ea9efd27;
-    padding-bottom: 1050px;
+    padding-bottom: 1000px;
   }
+footer{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 30px;
+  padding-left: 220px;
+  padding-right: 200px;
+}
+
+.getlinkedfoot{
+  font-family: clash display;
+  font-size: 30px;
+}
+
+.linkedd{
+  color: #d434fe;
+}
+.termsprivacy{
+  margin-top: 20%;
+  font-size: 14px;
+font-weight: bold;
+}
+
+.getlinkedfootertext{
+font-size: 13px;
+font-family: montressat;
+font-weight: lighter;
+}
+
+.allrights{
+ margin-left: 350px;
+}
+
+.usefull{
+  position: absolute;
+  margin-left: 33px;
+color: #d434fe;
+font-size: 18px;
+font-family: montressat;
+
+}
+
+.ul{
+  font-size: 13px;
+  font-family: montessrat;
+  margin-top: 60px;
+  
+}
+
+.socialmedia{
+  padding: 10px;
+ 
+}
+
 @media (max-width: 1200px) {
 }
 
